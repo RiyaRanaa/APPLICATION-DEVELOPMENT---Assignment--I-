@@ -1,4 +1,4 @@
-# 7th sem | APPLICATION-DEVELOPMENT-AssignmentI
+# 7th sem | APPLICATION-DEVELOPMENT-Assignment I
  Topic: Inheritance &amp; Interfaces in Java
 
  APPLICATION DEVELOPMENT PROJECTUSINGJAVA
